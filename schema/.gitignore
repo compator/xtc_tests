@@ -1,0 +1,11 @@
+# production
+build/
+
+# tests
+data/
+
+# gradle
+.gradle/
+
+# Intellij
+.idea/
